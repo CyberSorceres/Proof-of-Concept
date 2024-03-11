@@ -63,6 +63,15 @@
 - Creare un nuovo file .js
 - Incollare il seguente codice:
 ```
+@PROJECT-123
+
+@USERSTORY-1
+65e2f1f44f87e6edd1a3fa4d
+@USERSTORY-END
+
+@USERSTORY-2
+65e35137c1943b021d5697e2
+@USERSTORY-END
 ```
 - Premere CTRL + Shift + P
 - Selezionare: Genera test
