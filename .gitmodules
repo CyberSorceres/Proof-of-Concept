@@ -1,0 +1,9 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/CyberSorceres/poc_frontend
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/CyberSorceres/poc_backend
+[submodule "Plugin"]
+	path = Plugin
+	url = https://github.com/CyberSorceres/poc_plugin
