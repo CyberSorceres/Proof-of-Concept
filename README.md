@@ -54,10 +54,6 @@
 
 ## Testing
 
-### Backend
-
-### Frontend
-
 ### Plug-in
 
 - Creare un nuovo file .js
